@@ -5,7 +5,7 @@ Todo list app using laravel and vue.js by joshua lictan
 ## How to run
 
 ```bash
-cd todolist
+cd todo-app
 ```
 ```bash
 php artisan serve
